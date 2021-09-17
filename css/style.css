@@ -1060,7 +1060,7 @@ form label {
   font-size: 20px;
   background: #fff;
   padding: 20px;
-  color: #F14E95;
+  color: #ff0000;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1083,7 +1083,7 @@ form label {
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
-  color: #F14E95;
+  color: #ff0000;
   font-size: 30px;
 }
 .couple-half .groom, .couple-half .bride {
@@ -1176,7 +1176,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #F14E95;
+  color: #ff0000;
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -1198,7 +1198,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #F14E95;
+  color: #ff0000;
   font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
@@ -1233,7 +1233,7 @@ form label {
   display: block;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide span a.twitter {
-  color: #F14E95;
+  color: #ff0000;
   font-weight: 300;
 }
 #fh5co-testimonial .wrap-testimony .testimony-slide figure {
@@ -1325,7 +1325,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #F14E95;
+  color: #ff0000;
 }
 .feature-left .feature-copy {
   float: left;
@@ -1435,7 +1435,7 @@ form label {
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #F14E95;
+  border: 2px solid #ff0000;
 }
 
 #fh5co-offcanvas {
@@ -1832,7 +1832,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #F14E95;
+  border-color: #ff0000;
 }
 
 .row-pb-md {

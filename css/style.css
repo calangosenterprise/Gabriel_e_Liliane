@@ -949,7 +949,7 @@ form label {
   -ms-border-radius: 50%;
   border-radius: 50%;
   position: relative;*/
-  width:200px;
+  width:60px;
   display:inline-block;
   -webkit-mask:
      radial-gradient(circle at 60% 65%, red 64%, transparent 65%) top left,

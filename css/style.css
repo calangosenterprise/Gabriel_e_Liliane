@@ -934,22 +934,12 @@ form label {
 
 .simply-countdown {
   /* The countdown */
-  margin-bottom: 1em;
+  /*margin-bottom: 1em;*/
 }
 
 .simply-countdown > .simply-section {
-  /* coutndown blocks */
-  /*display: inline-block;
-  width: 100px;
-  height: 100px;
-  background: rgba(238, 4, 4, 0.8);
-  margin: 0 4px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
-  position: relative;*/
-  width:97px;
+  /* countdown blocks */
+  width:90px;
   display:inline-block;
   -webkit-mask:
      radial-gradient(circle at 60% 65%, red 64%, transparent 65%) top left,
@@ -996,7 +986,7 @@ form label {
 }
 
 .simply-countdown > .simply-section .simply-amount {
-  font-size: 25px;
+  font-size: 20px;
   /* amounts */
 }
 

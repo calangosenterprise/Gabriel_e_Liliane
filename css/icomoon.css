@@ -414,6 +414,13 @@
 .icon-ellipsis:before {
   content: "\e129";
 }
+.icon-qrcode:before{
+  content: "\e633";
+}
+.icon-coin:before{
+  content: "\e638";
+}
+
 .icon-add-to-list:before {
   content: "\e900";
 }

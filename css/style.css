@@ -196,10 +196,10 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a {
-  color: #F14E95;
+  color: gold;
 }
 .fh5co-nav ul li.btn-cta a span {
-  background: #fff;
+  background: rgb(255, 0, 0);
   padding: 4px 20px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -878,8 +878,8 @@ form label {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
-  background: #fff !important;
-  color: #F14E95;
+  background: rgb(255, 0, 0) !important;
+  color: gold;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -887,7 +887,7 @@ form label {
 #fh5co-header .display-tc .btn:hover,
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
-  background: #fff !important;
+  background: rgb(255, 115, 0) !important;
   -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
   box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
@@ -934,7 +934,7 @@ form label {
 
 .simply-countdown {
   /* The countdown */
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .simply-countdown > .simply-section {
@@ -1391,8 +1391,8 @@ form label {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #F14E95;
-  color: #fff;
+  background: #ff0000;
+  color: gold;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1688,22 +1688,22 @@ form label {
 }
 
 .btn-primary {
-  background: #F14E95;
-  color: #fff;
-  border: 2px solid #F14E95;
+  background: #ff0000;
+  color: gold;
+  border: 2px solid #fcb900;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f366a3 !important;
-  border-color: #f366a3 !important;
+  background: #ff0000 !important;
+  border-color: #ffc400 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F14E95;
-  border: 2px solid #F14E95;
+  color: #ff0000;
+  border: 2px solid gold;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F14E95;
-  color: #fff;
+  background: #ff0000;
+  color: gold;
 }
 
 .btn-success {

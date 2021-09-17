@@ -949,7 +949,7 @@ form label {
   -ms-border-radius: 50%;
   border-radius: 50%;
   position: relative;*/
-  width:60px;
+  width:100px;
   display:inline-block;
   -webkit-mask:
      radial-gradient(circle at 60% 65%, red 64%, transparent 65%) top left,
@@ -965,7 +965,7 @@ form label {
      linear-gradient(to bottom right,red 43%,transparent 43%) bottom right;
   mask-size:50% 50%;
   mask-repeat:no-repeat;
-  background:linear-gradient(red,gold);
+  background:linear-gradient(red,red);
   animation: pulse 1s ease infinite;
 }
 
@@ -991,7 +991,7 @@ form label {
 .simply-countdown > .simply-section .simply-amount,
 .simply-countdown > .simply-section .simply-word {
   display: block;
-  color: white;
+  color: gold;
   /* amounts and words */
 }
 

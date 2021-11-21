@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-counter,
 #fh5co-event,
 .fh5co-bg {
-  background-size: cover;
+  background-size:auto;
   background-position: top center;
   background-repeat: no-repeat;
   position: relative;

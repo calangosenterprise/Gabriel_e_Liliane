@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  border: 2px solid rgba(243, 6, 6, 0.5);
   background: rgba(255, 255, 255, 0.1);
   padding: 30px;
   width: 100%;
@@ -421,8 +421,8 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-counter .event-wrap h3,
 #fh5co-event .event-wrap h3 {
   font-size: 20px;
-  color: #fff;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: rgb(243, 12, 12);
+  border-bottom: 1px solid rgba(236, 9, 9, 0.5);
   display: block;
   padding-bottom: 20px;
   text-transform: uppercase;
@@ -432,11 +432,11 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-event .event-wrap p,
 #fh5co-event .event-wrap span {
   display: block;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(243, 10, 10, 0.8);
 }
 #fh5co-counter .event-wrap i,
 #fh5co-event .event-wrap i {
-  color: white;
+  color: rgb(240, 6, 6);
   font-size: 20px;
 }
 #fh5co-counter .event-wrap .event-col,

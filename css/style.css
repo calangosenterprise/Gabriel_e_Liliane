@@ -368,11 +368,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading h2,
 #fh5co-event .fh5co-heading h2 {
-  color: #fff;
+  color: rgb(238, 12, 12);
 }
 #fh5co-counter .fh5co-heading span,
 #fh5co-event .fh5co-heading span {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(233, 8, 8, 0.5);
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 2px;
